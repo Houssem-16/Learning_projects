@@ -1,2 +1,3 @@
 # Learning_projects
-project_1 is program that transfer decimal numbers into binary code
+In this repository I'll be sharing all my learning project...
+enjoy!!!
